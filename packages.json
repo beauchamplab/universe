@@ -1,7 +1,8 @@
  [
   {
     "package": "rave",
-    "url": "https://github.com/beauchamplab/rave"
+    "url": "https://github.com/beauchamplab/rave",
+    "branch": "1.0.3"
   },
   {
     "package": "rutabaga",
@@ -10,5 +11,10 @@
   {
     "package": "raveio",
     "url": "https://github.com/beauchamplab/raveio"
+  },
+  
+    "package": "ravebuiltins",
+    "url": "https://github.com/beauchamplab/ravebuiltins",
+    "branch": "migrate2"
   }
 ]
