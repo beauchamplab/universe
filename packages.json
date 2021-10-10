@@ -1,0 +1,15 @@
+ [
+  {
+    "package": "rave",
+    "url": "https://github.com/beauchamplab/rave"
+  },
+  {
+    "package": "ravebuiltins",
+    "url": "https://github.com/beauchamplab/ravebuiltins",
+    "branch" : "migrate2"
+  },
+  {
+    "package": "raveio",
+    "url": "https://github.com/beauchamplab/raveio"
+  }
+]
