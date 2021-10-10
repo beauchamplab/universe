@@ -4,6 +4,10 @@
     "url": "https://github.com/beauchamplab/rave"
   },
   {
+    "package": "rutabaga",
+    "url": "https://github.com/dipterix/rutabaga"
+  },
+  {
     "package": "ravebuiltins",
     "url": "https://github.com/beauchamplab/ravebuiltins",
     "branch" : "migrate2"
