@@ -43,5 +43,9 @@
     "package": "ravebuiltins",
     "url": "https://github.com/beauchamplab/ravebuiltins",
     "branch": "migrate2"
+  },
+  {
+    "package": "ravecorrelation",
+    "url": "https://github.com/LeoraCramer/ravecorrelation"
   }
 ]
