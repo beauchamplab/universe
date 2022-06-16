@@ -45,6 +45,11 @@
     "branch": "migrate2"
   },
   {
+    "package": "raveclusters",
+    "url": "https://github.com/z94007/raveclusters",
+    "branch": "rave2.0-pipeline"
+  },
+  {
     "package": "ravecorrelation",
     "url": "https://github.com/LeoraCramer/ravecorrelation"
   }
