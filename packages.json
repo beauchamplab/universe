@@ -1,5 +1,9 @@
  [
   {
+    "package": "ravemanager",
+    "url": "https://github.com/dipterix/ravemanager"
+  },
+  {
     "package": "filearray",
     "url": "https://github.com/dipterix/filearray"
   },
