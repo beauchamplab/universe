@@ -36,8 +36,16 @@
     "url": "https://github.com/dipterix/ravedash"
   },
   {
+    "package": "readNSx",
+    "url": "https://github.com/dipterix/readNSx"
+  },
+  {
     "package": "rutabaga",
     "url": "https://github.com/dipterix/rutabaga"
+  },
+  {
+    "package": "Rvcg",
+    "url": "https://github.com/cran/Rvcg"
   },
   {
     "package": "rave",
