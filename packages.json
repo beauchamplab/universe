@@ -44,10 +44,6 @@
     "url": "https://github.com/dipterix/rutabaga"
   },
   {
-    "package": "Rvcg",
-    "url": "https://github.com/cran/Rvcg"
-  },
-  {
     "package": "rave",
     "url": "https://github.com/beauchamplab/rave"
   },
